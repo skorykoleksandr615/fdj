@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+ <url><loc>https://fdj.monster/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+ <url><loc>https://fdj.monster/fdj-login.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+ <url><loc>https://fdj.monster/fdj-register.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+ <url><loc>https://fdj.monster/fdj-bonus.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+ <url><loc>https://fdj.monster/fdj-slots.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+ <url><loc>https://fdj.monster/fdj-odds.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+ <url><loc>https://fdj.monster/fdj-crash.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+ <url><loc>https://fdj.monster/fdj-live.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+ <url><loc>https://fdj.monster/fdj-app.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+ <url><loc>https://fdj.monster/fdj-pay.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+ <url><loc>https://fdj.monster/fdj-help.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+</urlset>
